@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shiba.chatbox.activities.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/chatbox_layout"
+        android:layout_width="314dp"
+        android:layout_height="206dp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="276dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+    </RelativeLayout>
+</android.widget.RelativeLayout>
